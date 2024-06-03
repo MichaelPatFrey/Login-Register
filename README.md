@@ -1,0 +1,1 @@
+This project allows for the creation of an account and the ability to login into your made account. This program was made for me to learn and I took the code from a video linked here: https://www.youtube.com/watch?v=3ZteY7tDFH4&ab_channel=Devression
